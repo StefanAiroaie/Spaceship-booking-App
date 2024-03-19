@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65f833b48bdb1fb96cb6ef0c"
+  },
+  "name": "Carrack",
+  "baujahr": "2170",
+  "serialNumber": "3FXF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/9/92/Carrack_over_microTech_3.8.png/800px-Carrack_over_microTech_3.8.webp",
+  "material": "Carbon",
+  "shipType": "Explorer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f833fd8bdb1fb96cb6ef0e"
+  },
+  "name": "Freelancer",
+  "baujahr": "2350",
+  "serialNumber": "3BEXF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/9/9f/Freelancer.jpg/800px-Freelancer.webp",
+  "material": "Aluminum",
+  "shipType": "Long Range Cargo Hauler",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8342f8bdb1fb96cb6ef10"
+  },
+  "name": "Defender",
+  "baujahr": "2630",
+  "serialNumber": "3B8EKEXF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/9/9f/Freelancer.jpg/800px-Freelancer.webp",
+  "material": "Steel",
+  "shipType": "Combat Ship",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f834668bdb1fb96cb6ef12"
+  },
+  "name": "P-72 Archimedes",
+  "baujahr": "2894",
+  "serialNumber": "3E48KEXF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/d/d8/Archimedes_-_Landed_on_pad_-_Above_Port.jpg/800px-Archimedes_-_Landed_on_pad_-_Above_Port.webp",
+  "material": "Titanium",
+  "shipType": "Luxury Snub Fighter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f834c38bdb1fb96cb6ef14"
+  },
+  "name": "Vanguard Harbinger",
+  "baujahr": "2499",
+  "serialNumber": "3E48KIDF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/7/73/Harbinger_-_Main_gun_firing_close_-_Front.jpg/400px-Harbinger_-_Main_gun_firing_close_-_Front.webp",
+  "material": "Metroid Steel",
+  "shipType": "Standard Fighter-Bomber",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f835258bdb1fb96cb6ef16"
+  },
+  "name": "Eclipse",
+  "baujahr": "2279",
+  "serialNumber": "3OD8KIDF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/b/bd/Aegis_Eclipse_over_Magda.png/800px-Aegis_Eclipse_over_Magda.webp",
+  "material": "Granatium",
+  "shipType": "Stealth Bomber",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f835658bdb1fb96cb6ef18"
+  },
+  "name": "Razor",
+  "baujahr": "2947",
+  "serialNumber": "7ODFKIDF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/f/fa/Razor_flying_over_Microtech_-_Blurred_background.jpg/800px-Razor_flying_over_Microtech_-_Blurred_background.webp",
+  "material": "Carbonium",
+  "shipType": "Racer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f835968bdb1fb96cb6ef1a"
+  },
+  "name": "Sabre",
+  "baujahr": "5947",
+  "serialNumber": "9ODFKJDF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/c/c7/Sabre_-_Flying_with_all_guns_firing.jpg/800px-Sabre_-_Flying_with_all_guns_firing.webp",
+  "material": "Steel",
+  "shipType": "Space Superiority Fighter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f835d08bdb1fb96cb6ef1c"
+  },
+  "name": "Endeavor",
+  "baujahr": "7947",
+  "serialNumber": "9ODFKODF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/d/d6/Endeavor.jpg/800px-Endeavor.webp",
+  "material": "Light Carbon",
+  "shipType": "Research Vessel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f835f08bdb1fb96cb6ef1e"
+  },
+  "name": "Polaris",
+  "baujahr": "4987",
+  "serialNumber": "75DFKODF64B",
+  "imageUrl": "https://media.starcitizen.tools/thumb/webp/d/d7/Ship-polaris-landed.jpg/800px-Ship-polaris-landed.webp",
+  "material": "Steel",
+  "shipType": "Corvette Class Capital Ship",
+  "__v": 0
+}]
