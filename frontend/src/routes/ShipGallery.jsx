@@ -7,7 +7,10 @@ const ShipGallery = () => {
   return (
     <>
       <Nav />
-      <main className="bg-black p-6">
+      {
+        shipsState ?
+        (
+        <main className="bg-black p-6">
         <h2 className="text-2xl font-bold tracking-tight text-white">
           Our Space Ships Colection
         </h2>
@@ -46,6 +49,16 @@ const ShipGallery = () => {
           </button>
         </Link>
       </main>
+      )
+        :
+        (
+        <div> <p>... wait we are loading the ships</p>
+        
+        <iframe src="https://giphy.com/embed/IVfgh1u2eCkqiyHxwd" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RobertsSpaceIndustries-star-citizen-starcitizen-reclaimer-IVfgh1u2eCkqiyHxwd">via GIPHY</a></p>
+        </div>
+        )
+      }
+      
     </>
   );
 };
